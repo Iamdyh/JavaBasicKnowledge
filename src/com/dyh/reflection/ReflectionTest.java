@@ -1,7 +1,7 @@
 package com.dyh.reflection;
 
 /**
- * 测试类1
+ * 测试类1 
  * @author dyh
  *获取Class对象的三种方式
  *	1、Object ---> getClass();

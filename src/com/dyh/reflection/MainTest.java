@@ -3,7 +3,7 @@ package com.dyh.reflection;
 import java.lang.reflect.Method;
 
 /**
- * 测试类6
+ * 测试类6 
  * @author dyh
  *
  * 获取Student类的main方法

@@ -5,7 +5,7 @@ import java.lang.reflect.Constructor;
 import javax.jws.Oneway;
 
 /**
- * 测试类2：
+ * 测试类2： 
  * @author dyh
  * 
  * 通过Class对象可以获取某个类中的：构造方法、成员变量、成员方法；并访问成员； 

@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 import java.util.Properties;
 
 /**
- * 测试类7
+ * 测试类7 
  * @author dyh
  *
  * 通过反射运行配置文件内容：
