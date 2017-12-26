@@ -1,0 +1,2 @@
+className = com.dyh.reflection.Student
+methodName = show
